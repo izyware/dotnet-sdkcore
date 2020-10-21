@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/izyware/dotnet-sdkcore</PackageProjectUrl>
+    <PackageId>Izyware.NET</PackageId>
+    <Authors>Izyware Inc</Authors>
+    <Company>Izyware Inc</Company>
+    <Product>Izyware Inc</Product>
+    <Description>The Izyware SDK for .NET is for building .NET applications that use Izyware services such as Proxy, Workflow Builder and Cloud Computing Resources.</Description>
+    <Copyright>Izyware Inc.</Copyright>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
